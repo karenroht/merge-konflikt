@@ -1,3 +1,7 @@
 tere
 tere
-tere tere tere
+<<<<<<< HEAD
+tere tere
+=======
+tere tere
+>>>>>>> bf195f7ddada1db683601a40ad93519d05d71424
