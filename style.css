@@ -1,0 +1,68 @@
+body{
+    padding: 3rem;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.logo{
+    width: 40px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+div a{
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+a{
+ text-decoration: none;
+ color: black;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main-img{
+    max-width: 100%;
+    width: 600px;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.map{
+    width: 600px;
+    max-width: 100%;
+}
+
+
+.left{
+    margin-left: auto;
+}
+
+.right{
+    margin-right: 0;
+}
+
+.price-div{
+    width: 400px;
+}
